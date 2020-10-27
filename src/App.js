@@ -1,14 +1,20 @@
 import './App.css';
+import images from './data.js';
+import Header from './Header.js';
+import ImageItem from './ImageItem.js';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <Header name="Perry" />
+      {
+        images.map(image => <ImageItem
+          title={image.title}
+          src={image.url}
+          description={image.description} />
+        )
+      }
 
-      </header>
-      <div className="image-list">
-        <div className="image-item"></div>
-      </div>
     </div>
   );
 }

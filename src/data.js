@@ -105,14 +105,14 @@ const images = [
     },
     {
         url:
-            "https://cdn.modernfarmer.com/wp-content/uploads/2014/08/28476658_9c97f35096_o.jpg",
+            "https://img.freepik.com/free-photo/two-impressive-mouflon-rams-with-long-horns-standing-close-together-meadow_158217-25.jpg?size=626&ext=jpg",
         title: "Mouflon",
         description: "Those horns though",
         keyword: "mouflon",
         horns: 2
     },
     {
-        url: "https://cdn.modernfarmer.com/wp-content/uploads/2014/08/addax.jpg",
+        url: "https://www.iucn.org/sites/dev/files/styles/850x500_no_menu_article/public/import/img/15b_013_003_cropped_addax_termit_0609_reconyx_scf_3b__c__rabeilscf.jpg?itok=_q7vQNzA",
         title: "Addax",
         description:
             "This guy is basically extinct but survives well in captivity, so they're frequently found in zoos",
@@ -129,7 +129,7 @@ const images = [
     },
     {
         url:
-            "https://cdn.modernfarmer.com/wp-content/uploads/2014/08/chameleon.jpg",
+            "https://cdn.shopify.com/s/files/1/1818/0437/articles/jackson-chameleon-care-sheet-pet.gif?v=1490320587",
         title: "Happy Jackson's Chameleon",
         description: "These are really common in Hawaii",
         keyword: "chameleon",
