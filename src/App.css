@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.creature {
+  max-height: 200px;
+  border-radius: 15px;
+} 
+
+.creatures {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.image-item {
+  width: 500px;
+  border: solid;
+  border-color: black;
+  border-radius: 15px;
+}
